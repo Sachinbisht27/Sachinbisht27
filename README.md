@@ -4,7 +4,6 @@
 ---
 
 ### :fire: My Contributions :
-[![Sachin Bisht's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sachinbisht27&show_icons=true&theme=merko)](https://github.com/Sachinbisht27/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sachinbisht27&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ---
