@@ -7,7 +7,7 @@
 
 - 💼 **Software Development Engineer** with **3+ years** of experience in backend and full-stack development.
 - 🔥 Passionate about building **scalable applications, automation, and web solutions**.
-- ⚡ I have worked on **business website projects**, automation scripts, and **price tracking bots** with **Discord/Slack alert systems**.
+- ⚡ I have worked on **business website projects**, automation scripts, and **Discord/Slack alert systems**.
 - 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/sachin-bisht-080981158/)** or **[X/Twitter](https://x.com/sachinbisht272)**.
 
 ---
