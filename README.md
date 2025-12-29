@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sachin Bisht</h1>
-<h3 align="center">Software Development Engineer (SDE) | Backend & Full-Stack Developer</h3>
+<!-- <h3 align="center">Software Development Engineer (SDE) | Backend & Full-Stack Developer</h3>
 
 ---
 
@@ -47,4 +47,4 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
-  </div>
+  </div> -->
