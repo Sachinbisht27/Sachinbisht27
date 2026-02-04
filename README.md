@@ -6,7 +6,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sachin-bisht-080981158/">LinkedIn</a> ·
-  <a href="https://x.com/sachinbisht272">X</a>
+  <a href="https://x.com/sachinbisht272">X</a> ·
+  <a href="https://sachin-bisht-portfolio.vercel.app/">Portfolio</a>
 </p>
 
 ---
