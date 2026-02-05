@@ -17,11 +17,6 @@
 I’m a backend-focused software engineer with ~3 years of experience building
 **production systems that automate real work**.
 
-Most of my day-to-day work lives in Python and Google Cloud — designing services,
-wiring integrations, and making sure things don’t break at 3 a.m.
-
-I enjoy turning unclear requirements into reliable systems.
-
 ---
 
 ### What I usually work on
@@ -72,8 +67,7 @@ I enjoy turning unclear requirements into reliable systems.
 ### Get in touch
 
 - LinkedIn: https://www.linkedin.com/in/sachin-bisht-080981158/  
-- X: https://x.com/sachinbisht272  
-- Portfolio: https://sachin-bisht-portfolio.vercel.app/
+- X: https://x.com/sachinbisht272
 
 <p align="center">
   <i>I like building systems that quietly do their job.</i>
