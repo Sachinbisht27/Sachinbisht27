@@ -1,7 +1,7 @@
-<h2 align="center">Hey, I'm Sachin 👋</h2>
+<h2 align="center">Hey, I’m Sachin 👋</h2>
 
 <p align="center">
-  Software Engineer • Backend & Cloud Automation • GCP
+  Backend engineer working with Python & Google Cloud
 </p>
 
 <p align="center">
@@ -12,71 +12,69 @@
 
 ---
 
-### 👨‍💻 What I Do
+### About me
 
-I build **reliable backend systems and cloud automations** that scale in production.
+I’m a backend-focused software engineer with ~3 years of experience building
+**production systems that automate real work**.
 
-- 🧠 Backend-first engineer with **3+ years** of experience  
-- ☁️ Strong focus on **Google Cloud (Cloud Run, Functions, Scheduler)**  
-- ⚙️ CI/CD pipelines using **GitHub Actions**  
-- 🧩 Automation, data pipelines, and system integrations  
-- 🛠️ Practical, production-oriented problem solver  
+Most of my day-to-day work lives in Python and Google Cloud — designing services,
+wiring integrations, and making sure things don’t break at 3 a.m.
 
----
-
-### 🔥 Things I’m Known For
-
-- Designing **end-to-end automation workflows**
-- Shipping **Cloud Run & Cloud Functions (Gen2)** at scale
-- Writing **clean, maintainable Python**
-- Fixing flaky systems and improving reliability
-- Turning vague requirements into working systems
+I enjoy turning unclear requirements into reliable systems.
 
 ---
 
-### 🧰 Tech I Actually Use
+### What I usually work on
+
+- Backend services and APIs (Python-first)
+- Cloud Run & Cloud Functions (Gen2) on GCP
+- CI/CD with GitHub Actions
+- Automation workflows and scheduled jobs
+- Data pipelines and system integrations
+
+---
+
+### Tech I’m comfortable with
 
 **Backend**
-- Python · Django · FastAPI · Flask  
-- REST APIs · Background jobs · Webhooks  
+- Python, Django, FastAPI, Flask  
+- REST APIs, background jobs, webhooks  
 
-**Cloud & DevOps**
-- Google Cloud Platform (GCP)  
-- Cloud Run · Cloud Functions · Cloud Scheduler  
-- GitHub Actions · CI/CD Pipelines  
+**Cloud**
+- Google Cloud Platform  
+- Cloud Run, Cloud Functions, Cloud Scheduler  
 
 **Data**
-- PostgreSQL · MySQL  
-- BigQuery · ETL-style pipelines  
+- PostgreSQL, MySQL  
+- BigQuery, ETL-style pipelines  
 
-**Frontend (when needed)**
-- React · Next.js (integration-focused)
-
----
-
-### 📌 Selected Work
-
-- ⚡ **Cloud Automation Suite**  
-  Deployed 12+ Cloud Run & Cloud Function services with CI/CD and monitoring
-
-- 🔔 **Price Tracking Bot**  
-  Tracks product prices across websites and sends Discord alerts
-
-- 📊 **Data Migration to BigQuery**  
-  Automated, monitored, and optimized large-scale migrations
-
-- 🧪 **CI/CD Templates for GCP**  
-  Reusable GitHub Actions workflows for Gen2 Cloud Functions
+**Frontend (when required)**
+- React, Next.js (mostly for integrations)
 
 ---
 
-### 📫 Let’s Connect
+### A few things I’ve built
 
-- LinkedIn → https://www.linkedin.com/in/sachin-bisht-080981158/  
-- X → https://x.com/sachinbisht272  
+- **Cloud automation services**  
+  Multiple Cloud Run & Cloud Function services with CI/CD, monitoring, and alerts
+
+- **Price tracking bot**  
+  Scrapes product prices and sends Discord notifications
+
+- **BigQuery migration pipelines**  
+  Automated and monitored large-scale data migrations
+
+- **Reusable CI/CD templates**  
+  GitHub Actions workflows for GCP (Cloud Functions Gen2)
 
 ---
+
+### Get in touch
+
+- LinkedIn: https://www.linkedin.com/in/sachin-bisht-080981158/  
+- X: https://x.com/sachinbisht272  
+- Portfolio: https://sachin-bisht-portfolio.vercel.app/
 
 <p align="center">
-  <i>Focused on building things that work — and keep working.</i>
+  <i>I like building systems that quietly do their job.</i>
 </p>
