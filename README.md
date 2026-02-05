@@ -12,8 +12,6 @@
 
 ---
 
-### About me
-
 I’m a backend-focused software engineer with ~3 years of experience building
 **production systems that automate real work**.
 
@@ -32,14 +30,17 @@ I’m a backend-focused software engineer with ~3 years of experience building
 ### Tech I’m comfortable with
 
 **Backend**
+
 - Python, Django, FastAPI, Flask  
 - REST APIs, background jobs, webhooks  
 
 **Cloud**
+
 - Google Cloud Platform  
 - Cloud Run, Cloud Functions, Cloud Scheduler  
 
 **Data**
+
 - PostgreSQL, MySQL  
 - BigQuery, ETL-style pipelines  
 
@@ -66,8 +67,8 @@ I’m a backend-focused software engineer with ~3 years of experience building
 
 ### Get in touch
 
-- LinkedIn: https://www.linkedin.com/in/sachin-bisht-080981158/  
-- X: https://x.com/sachinbisht272
+- LinkedIn: <https://www.linkedin.com/in/sachin-bisht-080981158/>  
+- X: <https://x.com/sachinbisht272>  
 
 <p align="center">
   <i>I like building systems that quietly do their job.</i>
