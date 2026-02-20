@@ -60,8 +60,9 @@ Backend-focused software engineer with ~3 years of experience building productio
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sachinbisht27&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Sachin's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachinbisht27&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+<img src="https://img.shields.io/github/followers/Sachinbisht27?style=for-the-badge&label=Followers" alt="Followers" />
+<img src="https://img.shields.io/github/commit-activity/y/Sachinbisht27/Sachinbisht27?style=for-the-badge&label=Commits%20This%20Year" alt="Commits this year" />
+<img src="https://img.shields.io/github/last-commit/Sachinbisht27/Sachinbisht27?style=for-the-badge&label=Last%20Profile%20Update" alt="Last profile update" />
 
 <br/>
 
