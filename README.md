@@ -18,7 +18,6 @@
 <p>
   <a href="https://www.linkedin.com/in/sachin-bisht-080981158/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/sachinbisht272"><img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://sachin-bisht-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 </div>
@@ -91,7 +90,6 @@ Backend-focused software engineer with ~3 years of experience building productio
 
 - LinkedIn: [sachin-bisht-080981158](https://www.linkedin.com/in/sachin-bisht-080981158/)
 - X: [@sachinbisht272](https://x.com/sachinbisht272)
-- Portfolio: [sachin-bisht-portfolio.vercel.app](https://sachin-bisht-portfolio.vercel.app/)
 
 <div align="center">
 
